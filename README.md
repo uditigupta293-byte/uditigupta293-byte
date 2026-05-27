@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Uditi Gupta** — a B.Tech student passionate about solving real-world problems through technology, data-driven thinking, and scalable ideas.
+I'm **Uditi Gupta** , a B.Tech student passionate about solving real-world problems through technology, data-driven thinking, and scalable ideas.
 
 I’m currently focused on building strong foundations in **Data Science, analytics, business strategy, and software development** while continuously working on projects that improve my problem-solving ability and execution mindset.
 
