@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 I'm **Uditi Gupta** , a B.Tech student passionate about solving real-world problems through technology, data-driven thinking, and scalable ideas.
-I’m currently focused on building strong foundations in **Data Science, analytics, business strategy, and software development** while continuously working on projects that improve my problem-solving ability and execution mindset.
+I’m currently focused on building strong foundations in **Data Science, analytics, business strategy** while continuously working on projects that improve my problem-solving ability and execution mindset.
 ---
 
 ## 🚀 What I’m Currently Working On
@@ -31,17 +31,17 @@ I’m currently focused on building strong foundations in **Data Science, analyt
 ### Languages & Tools
 - Python
 - SQL
-- R
 - Git & GitHub
 - VS Code
+- Google Colab
 - Jupyter Notebook
 - Data Visualization
+- Power BI
 
 ### Currently Learning
 - Machine Learning
 - Statistical Analysis
 - Data Structures & Algorithms
-- Cloud & Modern Development Tools
 
 ---
 
